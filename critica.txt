@@ -1,0 +1,4 @@
+Descreva o projeto na pasta DOC.
+
+Informe quais tecnologias gostaria de usar.
+
